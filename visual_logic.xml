@@ -1,6 +1,6 @@
 <xml xmlns="http://www.w3.org/1999/xhtml">
   <tab name="init" type="InitTab" active="false" scrollx="577" scrolly="326.9999999999998" scale="0.9"></tab>
-  <tab name="main" type="MainTab" active="true" scrollx="-54.11520795023216" scrolly="809.2728906154778" scale="0.6434605001128231">
+  <tab name="main" type="MainTab" active="true" scrollx="738.6999975442886" scrolly="1051.95" scale="0.9">
     <variables xmlns="https://developers.google.com/blockly/xml">
       <variable id="8jCq[sj*aJ#HvW%)S!~t" type="">dictwhi</variable>
       <variable id="$d^SdJjO9fx@S(Zoa`~j" type="">x</variable>
@@ -214,17 +214,17 @@
                   </value>
                   <value name="X">
                     <block type="math_number" id="0Ic@hdHun(Q6S4rAr~9a">
-                      <field name="NUM">-13</field>
+                      <field name="NUM">-7</field>
                     </block>
                   </value>
                   <value name="Y">
                     <block type="math_number" id="FdvJw,_O#s=`phxVM0LJ">
-                      <field name="NUM">-17</field>
+                      <field name="NUM">-9</field>
                     </block>
                   </value>
                   <value name="Z">
                     <block type="math_number" id="dWv_;_5}m-:Nss9%9L2;">
-                      <field name="NUM">0.75</field>
+                      <field name="NUM">2</field>
                     </block>
                   </value>
                   <next>
@@ -561,17 +561,17 @@
                   </value>
                   <value name="X">
                     <block type="math_number" id="VBirjGmkBCvn^Y]KJ:DI">
-                      <field name="NUM">-13</field>
+                      <field name="NUM">-7</field>
                     </block>
                   </value>
                   <value name="Y">
                     <block type="math_number" id="2ZFbzNXI;zcsUC_ti0([">
-                      <field name="NUM">-17</field>
+                      <field name="NUM">-9</field>
                     </block>
                   </value>
                   <value name="Z">
                     <block type="math_number" id="8Wu9@.O-)PIGR(UhEUAn">
-                      <field name="NUM">0.75</field>
+                      <field name="NUM">2</field>
                     </block>
                   </value>
                   <next>
@@ -809,17 +809,17 @@
                   </value>
                   <value name="X">
                     <block type="math_number" id="/D*1+cyn:,%T:pc^F:@d">
-                      <field name="NUM">-13</field>
+                      <field name="NUM">-7</field>
                     </block>
                   </value>
                   <value name="Y">
                     <block type="math_number" id=";2umh.{{g/9yt?HT`[4A">
-                      <field name="NUM">-17</field>
+                      <field name="NUM">-9</field>
                     </block>
                   </value>
                   <value name="Z">
                     <block type="math_number" id="Ohb}JF2+g-L.D]9.;|Uc">
-                      <field name="NUM">0.75</field>
+                      <field name="NUM">2</field>
                     </block>
                   </value>
                   <next>
